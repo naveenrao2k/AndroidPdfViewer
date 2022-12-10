@@ -15,7 +15,7 @@ allprojects {
 ```
 Add the dependency
 ```groovy
-implementation 'com.github.TalbotGooday:AndroidPdfViewer:Tag'
+implementation 'com.github.naveenrao2k:AndroidPdfViewer:3.1.0-beta.3'
 ```
 
 ---
